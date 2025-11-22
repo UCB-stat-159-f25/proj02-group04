@@ -2,4 +2,4 @@
 __pycache__/
 
 # MyST build outputs
-_build
+_build/
